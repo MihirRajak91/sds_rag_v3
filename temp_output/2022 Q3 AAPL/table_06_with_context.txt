@@ -1,0 +1,59 @@
+**Document:** tmp4wakl7oh.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_06
+**Estimated Location in Document:** Page 9
+**Context from Surrounding Text:**
+9 ---
+
+Apple Inc.
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+Note 1 – Summary of Significant Accounting Policies
+Basis of Presentation and Preparation
+The conden sed consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries (collectively “Apple” or the “Company”).
+Intercompany accounts and transactions have been eliminated. In the opinion of the Company’ s management, the condensed consolidated financial statements
+reflect all ad...
+
+**Table Data (in Markdown format):**
+| 0                                                                                                         | 1       | 2       | 3       | 4   | 5       |
+|:----------------------------------------------------------------------------------------------------------|:--------|:--------|:--------|:----|:--------|
+| ASSETS:                                                                                                   | nan     | nan     | nan     | nan | nan     |
+| Current assets:                                                                                           | nan     | nan     | nan     | nan | nan     |
+| Cash and cash equivalents                                                                                 | $       | 27,502  | nan     | $   | 34,940  |
+| Marketable securities                                                                                     | 20,729  | nan     | 27,699  | nan | nan     |
+| Accounts receivable, net                                                                                  | 21,803  | nan     | 26,278  | nan | nan     |
+| Inventories                                                                                               | 5,433   | nan     | 6,580   | nan | nan     |
+| Vendor non-trade receivables                                                                              | 20,439  | nan     | 25,228  | nan | nan     |
+| Other current assets                                                                                      | 16,386  | nan     | 14,111  | nan | nan     |
+| Total current assets                                                                                      | 112,292 | nan     | 134,836 | nan | nan     |
+| nan                                                                                                       | nan     | nan     | nan     | nan | nan     |
+| Non-current assets:                                                                                       | nan     | nan     | nan     | nan | nan     |
+| Marketable securities                                                                                     | 131,077 | nan     | 127,877 | nan | nan     |
+| Property, plant and equipment, net                                                                        | 40,335  | nan     | 39,440  | nan | nan     |
+| Other non-current assets                                                                                  | 52,605  | nan     | 48,849  | nan | nan     |
+| Total non-current assets                                                                                  | 224,017 | nan     | 216,166 | nan | nan     |
+| Total assets                                                                                              | $       | 336,309 | nan     | $   | 351,002 |
+| nan                                                                                                       | nan     | nan     | nan     | nan | nan     |
+| LIABILITIES AND SHAREHOLDERS’ EQUITY:                                                                     | nan     | nan     | nan     | nan | nan     |
+| Current liabilities:                                                                                      | nan     | nan     | nan     | nan | nan     |
+| Accounts payable                                                                                          | $       | 48,343  | nan     | $   | 54,763  |
+| Other current liabilities                                                                                 | 48,811  | nan     | 47,493  | nan | nan     |
+| Deferred revenue                                                                                          | 7,728   | nan     | 7,612   | nan | nan     |
+| Commercial paper                                                                                          | 10,982  | nan     | 6,000   | nan | nan     |
+| Term debt                                                                                                 | 14,009  | nan     | 9,613   | nan | nan     |
+| Total current liabilities                                                                                 | 129,873 | nan     | 125,481 | nan | nan     |
+| nan                                                                                                       | nan     | nan     | nan     | nan | nan     |
+| Non-current liabilities:                                                                                  | nan     | nan     | nan     | nan | nan     |
+| Term debt                                                                                                 | 94,700  | nan     | 109,106 | nan | nan     |
+| Other non-current liabilities                                                                             | 53,629  | nan     | 53,325  | nan | nan     |
+| Total non-current liabilities                                                                             | 148,329 | nan     | 162,431 | nan | nan     |
+| Total liabilities                                                                                         | 278,202 | nan     | 287,912 | nan | nan     |
+| nan                                                                                                       | nan     | nan     | nan     | nan | nan     |
+| Commitments and contingencies                                                                             | nan     | nan     | nan     | nan | nan     |
+| nan                                                                                                       | nan     | nan     | nan     | nan | nan     |
+| Shareholders’ equity:                                                                                     | nan     | nan     | nan     | nan | nan     |
+| Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 16,095,378 | 62,115  | nan     | 57,365  | nan | nan     |
+| and 16,426,786 shares issued and outstanding, respectively                                                |         |         |         |     |         |
+| Retained earnings                                                                                         | 5,289   | nan     | 5,562   | nan | nan     |
+| Accumulated other comprehensive income/(loss)                                                             | (9,297) | nan     | 163     | nan | nan     |
+| Total shareholders’ equity                                                                                | 58,107  | nan     | 63,090  | nan | nan     |
+| Total liabilities and shareholders’ equity                                                                | $       | 336,309 | nan     | $   | 351,002 |

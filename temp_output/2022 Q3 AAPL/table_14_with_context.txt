@@ -1,0 +1,26 @@
+**Document:** tmp4wakl7oh.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_14
+**Estimated Location in Document:** Page 21
+**Context from Surrounding Text:**
+21 ---
+
+Operating Expenses
+Operating expenses for the three- and nine-month periods ended June 25, 2022 and June 26, 2021 were as follows (dollars in millions):
+Three Months Ended Nine Months Ended
+June 25,
+2022June 26,
+2021June 25,
+2022June 26,
+2021
+Research and development $ 6,797 $ 5,717 $ 19,490 $ 16,142 
+Percentage of total net sales 8 % 7 % 6 % 6 %
+Selling, general and administrative $ 6,012 $ 5,412 $ 18,654 $ 16,357 
+Percentage of total net sales 7 % 7 % 6 % 6 %
+Total operating expenses $...
+
+**Table Data (in Markdown format):**
+| 0        | 1             |
+|:---------|:--------------|
+| June 25, | September 25, |
+| 2022     | 2021          |

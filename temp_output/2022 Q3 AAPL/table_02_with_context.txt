@@ -1,0 +1,32 @@
+**Document:** tmp4wakl7oh.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_02
+**Estimated Location in Document:** Page 3
+**Context from Surrounding Text:**
+3 ---
+
+Apple Inc.
+Form 10-Q
+For the Fiscal Quarter Ended June 25, 2022
+TABLE OF CONTENTS
+Page
+Part I
+Item 1. Financial Statements 1
+Item 2. Management’ s Discussion and Analysis of Financial Condition and Results of Operations 14
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 19
+Item 4. Controls and Procedures 19
+Part II
+Item 1. Legal Proceedings 20
+Item 1A. Risk Factors 20
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 20
+Item 3. Defaults Upon Senior Sec...
+
+**Table Data (in Markdown format):**
+| 0                                        | 1                                    |
+|:-----------------------------------------|:-------------------------------------|
+| California                               | 94-2404110                           |
+| (State or other jurisdiction             | (I.R.S. Employer Identification No.) |
+| of incorporation or organization)        | nan                                  |
+| One Apple Park Way                       | nan                                  |
+| Cupertino, California                    | 95014                                |
+| (Address of principal executive offices) | (Zip Code)                           |

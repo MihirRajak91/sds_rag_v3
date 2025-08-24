@@ -1,0 +1,27 @@
+**Document:** tmp4wakl7oh.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_17
+**Estimated Location in Document:** Page 26
+**Context from Surrounding Text:**
+26 ---
+
+Exhibit 31.1
+CERTIFICA TION
+I, Timothy D. Cook, certify that:
+1.I have reviewed this quarterly report on Form 10-Q of Apple Inc.;
+2.Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;
+3.Based on my knowledge, the financial statemen ts, and other...
+
+**Table Data (in Markdown format):**
+| 0                                      | 1   | 2        | 3   | 4        | 5      | 6   | 7        | 8   | 9        | 10     |
+|:---------------------------------------|:----|:---------|:----|:---------|:-------|:----|:---------|:----|:---------|:-------|
+| nan                                    | nan | June 25, | nan | June 26, | nan    | nan | June 25, | nan | June 26, | nan    |
+| nan                                    | nan | 2022     | nan | 2021     | Change | nan | 2022     | nan | 2021     | Change |
+| ales by category:                      | nan | nan      | nan | nan      | nan    | nan | nan      | nan | nan      | nan    |
+| iPhone (1)                             | $   | 40,665   | $   | 39,570   | 3 %    | $   | 162,863  | $   | 153,105  | 6 %    |
+| Mac (1)                                | nan | 7,382    | nan | 8,235    | (10)%  | nan | 28,669   | nan | 26,012   | 10 %   |
+| iPad (1)                               | nan | 7,224    | nan | 7,368    | (2)%   | nan | 22,118   | nan | 23,610   | (6)%   |
+| Wearables, Home and Accessories (1)(2) | nan | 8,084    | nan | 8,775    | (8)%   | nan | 31,591   | nan | 29,582   | 7 %    |
+| Services (3)                           | nan | 19,604   | nan | 17,486   | 12 %   | nan | 58,941   | nan | 50,148   | 18 %   |
+| Total net sales                        | $   | 82,959   | $   | 81,434   | 2 %    | $   | 304,182  | $   | 282,457  | 8 %    |

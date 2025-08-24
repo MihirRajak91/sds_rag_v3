@@ -1,0 +1,22 @@
+**Document:** tmp6ch0adl8.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_15
+**Estimated Location in Document:** Page 23
+**Context from Surrounding Text:**
+23 ---
+
+PART II — OTHER INFORMA TION
+Item 1.    Legal Proceedings
+Epic Games
+Epic Games, Inc. (“Epic ”) filed a lawsuit in the U.S. District Court for the Northern District of California (the “Northern California District Court”) against the
+Company alleging violati ons of federal and state antitrust laws and California’ s unfair competition law based upon the Company’ s operation of its App Store. The
+Company filed a counterclaim for breach of contract. On September 10, 2021, the Northern Calif...
+
+**Table Data (in Markdown format):**
+| 0                                | 1         | 2   |      3 | 4   | 5      |
+|:---------------------------------|:----------|:----|-------:|:----|:-------|
+| Balance as of September 25, 2021 | 240,427   | $   |  75.16 | nan | nan    |
+| RSUs granted                     | 84,927    | $   | 150.02 | nan | nan    |
+| RSUs vested                      | (109,846) | $   |  70.96 | nan | nan    |
+| RSUs canceled                    | (12,986)  | $   |  98.26 | nan | nan    |
+| Balance as of June 25, 2022      | 202,522   | $   | 107.35 | $   | 28,689 |

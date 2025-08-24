@@ -1,0 +1,56 @@
+**Document:** tmp6ch0adl8.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_12
+**Estimated Location in Document:** Page 18
+**Context from Surrounding Text:**
+18 ---
+
+COVID-19
+The COVID-19 pandemic has had, and continue s to have, a significant impact around the world, prompting governments and businesses to take unprecedented
+measures, such as restrictions on travel and business operations, temporary closures of busines ses, and quarantine and shelter-in-place orders. The COVID-19
+pandemic has at times significantly curtailed global economic activity and caused significant volatility and disruption in global financial markets. The COVID-19
+pandemic a...
+
+**Table Data (in Markdown format):**
+| 0                                         | 1   | 2        | 3   | 4          | 5   | 6          | 7                  | 8       | 9   | 10          | 11   | 12         | 13   | 14          |
+|:------------------------------------------|:----|:---------|:----|:-----------|:----|:-----------|:-------------------|:--------|:----|:------------|:-----|:-----------|:-----|:------------|
+| nan                                       | nan | nan      | nan | nan        | nan | nan        | nan                | nan     | nan | Cash and    | nan  | Current    | nan  | Non-Current |
+| nan                                       | nan | Adjusted | nan | Unrealized | nan | Unrealized | nan                | Fair    | nan | Cash        | nan  | Marketable | nan  | Marketable  |
+| nan                                       | nan | Cost     | nan | Gains      | nan | Losses     | nan                | Value   | nan | Equivalents | nan  | Securities | nan  | Securities  |
+| Cash                                      | $   | 12,852   | $   | —          | $   | —          | $                  | 12,852  | $   | 12,852      | $    | —          | $    | —           |
+| Level 1 (1):                              | nan | nan      | nan | nan        | nan | nan        | nan                | nan     | nan | nan         | nan  | nan        | nan  | nan         |
+| Money market funds                        | nan | 10,970   | nan | —          | nan | —          | nan                | 10,970  | nan | 10,970      | nan  | —          | nan  | —           |
+| Mutual funds                              | nan | 252      | nan | —          | nan | (32)       | nan                | 220     | nan | —           | nan  | 220        | nan  | —           |
+| Subtotal                                  | nan | 11,222   | nan | —          | nan | (32)       | nan                | 11,190  | nan | 10,970      | nan  | 220        | nan  | —           |
+| Level 2 (2):                              | nan | nan      | nan | nan        | nan | nan        | nan                | nan     | nan | nan         | nan  | nan        | nan  | nan         |
+| U.S. Treasury securities                  | nan | 25,296   | nan | —          | nan | (1,328)    | nan                | 23,968  | nan | 91          | nan  | 3,511      | nan  | 20,366      |
+| U.S. agency securities                    | nan | 5,805    | nan | —          | nan | (511)      | nan                | 5,294   | nan | 4           | nan  | 240        | nan  | 5,050       |
+| Non-U.S. government securities            | nan | 17,597   | nan | 6          | nan | (1,023)    | nan                | 16,580  | nan | —           | nan  | 6,336      | nan  | 10,244      |
+| Certificates of deposit and time deposits | nan | 3,928    | nan | —          | nan | —          | nan                | 3,928   | nan | 3,374       | nan  | 504        | nan  | 50          |
+| Commercial paper                          | nan | 966      | nan | —          | nan | —          | nan                | 966     | nan | 209         | nan  | 757        | nan  | —           |
+| Corporate debt securities                 | nan | 88,912   | nan | 15         | nan | (6,455)    | nan                | 82,472  | nan | 2           | nan  | 8,738      | nan  | 73,732      |
+| Municipal securities                      | nan | 978      | nan | —          | nan | (26)       | nan                | 952     | nan | —           | nan  | 203        | nan  | 749         |
+| Mortgage- and asset-backed securities     | nan | 23,058   | nan | —          | nan | (1,952)    | nan                | 21,106  | nan | —           | nan  | 220        | nan  | 20,886      |
+| Subtotal                                  | nan | 166,540  | nan | 21         | nan | (11,295)   | nan                | 155,266 | nan | 3,680       | nan  | 20,509     | nan  | 131,077     |
+| Total (3)                                 | $   | 190,614  | $   | 21         | $   | (11,327)   | $                  | 179,308 | $   | 27,502      | $    | 20,729     | $    | 131,077     |
+| nan                                       | nan | nan      | nan | nan        | nan | nan        | September 25, 2021 | nan     | nan | nan         | nan  | nan        | nan  | nan         |
+| nan                                       | nan | nan      | nan | nan        | nan | nan        | nan                | nan     | nan | Cash and    | nan  | Current    | nan  | Non-Current |
+| nan                                       | nan | Adjusted | nan | Unrealized | nan | Unrealized | nan                | Fair    | nan | Cash        | nan  | Marketable | nan  | Marketable  |
+| nan                                       | nan | Cost     | nan | Gains      | nan | Losses     | nan                | Value   | nan | Equivalents | nan  | Securities | nan  | Securities  |
+| Cash                                      | $   | 17,305   | $   | —          | $   | —          | $                  | 17,305  | $   | 17,305      | $    | —          | $    | —           |
+| Level 1 (1):                              | nan | nan      | nan | nan        | nan | nan        | nan                | nan     | nan | nan         | nan  | nan        | nan  | nan         |
+| Money market funds                        | nan | 9,608    | nan | —          | nan | —          | nan                | 9,608   | nan | 9,608       | nan  | —          | nan  | —           |
+| Mutual funds                              | nan | 175      | nan | 11         | nan | (1)        | nan                | 185     | nan | —           | nan  | 185        | nan  | —           |
+| Subtotal                                  | nan | 9,783    | nan | 11         | nan | (1)        | nan                | 9,793   | nan | 9,608       | nan  | 185        | nan  | —           |
+| Level 2 (2):                              | nan | nan      | nan | nan        | nan | nan        | nan                | nan     | nan | nan         | nan  | nan        | nan  | nan         |
+| Equity securities                         | nan | 1,527    | nan | —          | nan | (564)      | nan                | 963     | nan | —           | nan  | 963        | nan  | —           |
+| U.S. Treasury securities                  | nan | 22,878   | nan | 102        | nan | (77)       | nan                | 22,903  | nan | 3,596       | nan  | 6,625      | nan  | 12,682      |
+| U.S. agency securities                    | nan | 8,949    | nan | 2          | nan | (64)       | nan                | 8,887   | nan | 1,775       | nan  | 1,930      | nan  | 5,182       |
+| Non-U.S. government securities            | nan | 20,201   | nan | 211        | nan | (101)      | nan                | 20,311  | nan | 390         | nan  | 3,091      | nan  | 16,830      |
+| Certificates of deposit and time deposits | nan | 1,300    | nan | —          | nan | —          | nan                | 1,300   | nan | 490         | nan  | 810        | nan  | —           |
+| Commercial paper                          | nan | 2,639    | nan | —          | nan | —          | nan                | 2,639   | nan | 1,776       | nan  | 863        | nan  | —           |
+| Corporate debt securities                 | nan | 83,883   | nan | 1,242      | nan | (267)      | nan                | 84,858  | nan | —           | nan  | 12,327     | nan  | 72,531      |
+| Municipal securities                      | nan | 967      | nan | 14         | nan | —          | nan                | 981     | nan | —           | nan  | 130        | nan  | 851         |
+| Mortgage- and asset-backed securities     | nan | 20,529   | nan | 171        | nan | (124)      | nan                | 20,576  | nan | —           | nan  | 775        | nan  | 19,801      |
+| Subtotal                                  | nan | 162,873  | nan | 1,742      | nan | (1,197)    | nan                | 163,418 | nan | 8,027       | nan  | 27,514     | nan  | 127,877     |
+| Total (3)                                 | $   | 189,961  | $   | 1,753      | $   | (1,198)    | $                  | 190,516 | $   | 34,940      | $    | 27,699     | $    | 127,877     |

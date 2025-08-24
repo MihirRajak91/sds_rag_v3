@@ -1,0 +1,41 @@
+**Document:** 2022 Q3 AAPL.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_07
+**Estimated Location in Document:** Page 10
+**Context from Surrounding Text:**
+10 ---
+
+Note 2 – Revenue
+Net sales disaggregated  by significant products and services for the three- and nine-month periods ended June 25, 2022 and June 26, 2021 were as follows (in
+millions):
+Three Months Ended Nine Months Ended
+June 25,
+2022June 26,
+2021June 25,
+2022June 26,
+2021
+iPhone $ 40,665 $ 39,570 $ 162,863 $ 153,105 
+Mac  7,382 8,235 28,669 26,012 
+iPad 7,224 7,368 22,118 23,610 
+Wearables, Home and Accessories 8,084 8,775 31,591 29,582 
+Services 19,604 17,486 58,941 50,148 
+Total net...
+
+**Table Data (in Markdown format):**
+| 0                                                               | 1        | 2        | 3        | 4        |
+|:----------------------------------------------------------------|:---------|:---------|:---------|:---------|
+| awards                                                          | (1,371)  | (1,224)  | (2,783)  | (2,460)  |
+| Share-based compensation                                        | 2,305    | 2,010    | 6,940    | 6,109    |
+| Ending balances                                                 | 62,115   | 54,989   | 62,115   | 54,989   |
+| ined earnings:                                                  | nan      | nan      | nan      | nan      |
+| Beginning balances                                              | 12,712   | 15,261   | 5,562    | 14,966   |
+| Net income                                                      | 19,442   | 21,744   | 79,082   | 74,129   |
+| Dividends and dividend equivalents declared                     | (3,760)  | (3,713)  | (11,058) | (10,755) |
+| Common stock withheld related to net share settlement of equity | nan      | nan      | nan      | nan      |
+| awards                                                          | (1,403)  | (1,559)  | (3,323)  | (3,606)  |
+| Common stock repurchased                                        | (21,702) | (22,500) | (64,974) | (65,501) |
+| Ending balances                                                 | 5,289    | 9,233    | 5,289    | 9,233    |
+| mulated other comprehensive income/(loss):                      | nan      | nan      | nan      | nan      |
+| Beginning balances                                              | (6,494)  | (286)    | 163      | (406)    |
+| Other comprehensive income/(loss)                               | (2,803)  | 344      | (9,460)  | 464      |
+| Ending balances                                                 | (9,297)  | 58       | (9,297)  | 58       |

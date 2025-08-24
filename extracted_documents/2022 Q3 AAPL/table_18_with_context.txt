@@ -1,0 +1,28 @@
+**Document:** tmp6ch0adl8.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_18
+**Estimated Location in Document:** Page 28
+**Context from Surrounding Text:**
+28 ---
+
+Exhibit 32.1
+CERTIFICA TIONS OF CHIEF EXECUTIVE OFFICER AND CHIEF FINANCIAL  OFFICER
+PURSUANT T O
+18 U.S.C. SECTION 1350,
+AS ADOPTED PURSUANT T O
+SECTION 906 OF THE SARBANES-OXLEY  ACT OF 2002
+I, Timothy D. Cook, certify, as of the date hereo f, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,
+that the Quarterly Repor t of Apple Inc. on Form  10-Q for the period ended June 25, 2022 fully complies with the requirements of Section 13...
+
+**Table Data (in Markdown format):**
+| 0                           | 1   | 2        | 3   | 4        | 5      | 6   | 7        | 8   | 9        | 10     |
+|:----------------------------|:----|:---------|:----|:---------|:-------|:----|:---------|:----|:---------|:-------|
+| nan                         | nan | June 25, | nan | June 26, | nan    | nan | June 25, | nan | June 26, | nan    |
+| nan                         | nan | 2022     | nan | 2021     | Change | nan | 2022     | nan | 2021     | Change |
+| ales by reportable segment: | nan | nan      | nan | nan      | nan    | nan | nan      | nan | nan      | nan    |
+| Americas                    | $   | 37,472   | $   | 35,870   | 4 %    | $   | 129,850  | $   | 116,486  | 11 %   |
+| Europe                      | nan | 19,287   | nan | 18,943   | 2 %    | nan | 72,323   | nan | 68,513   | 6 %    |
+| Greater China               | nan | 14,604   | nan | 14,762   | (1)%   | nan | 58,730   | nan | 53,803   | 9 %    |
+| Japan                       | nan | 5,446    | nan | 6,464    | (16)%  | nan | 20,277   | nan | 22,491   | (10)%  |
+| Rest of Asia Pacific        | nan | 6,150    | nan | 5,395    | 14 %   | nan | 23,002   | nan | 21,164   | 9 %    |
+| Total net sales             | $   | 82,959   | $   | 81,434   | 2 %    | $   | 304,182  | $   | 282,457  | 8 %    |

@@ -1,0 +1,164 @@
+Extraction Summary for 2022 Q3 AAPL.pdf
+==================================================
+
+Total pages in PDF: 28
+Total tables extracted: 18
+
+Table Previews:
+------------------------------
+Table 1 (10 rows x 3 columns):
+                       0  1                            2
+0  1.000% Notes due 2022  —  The Nasdaq Stock Market LLC
+1  1.375% Notes due 2024  —  The Nasdaq Stock Market LLC
+2  0.000% Notes due 2025  —  The Nasdaq Stock Market LLC
+3  0.875% Notes due 2025  —  The Nasdaq Stock Market LLC
+4  1.625% Notes due 2026  —  The Nasdaq Stock Market LLC
+
+------------------------------
+Table 2 (6 rows x 2 columns):
+                                   0                                     1
+0                         California                            94-2404110
+1       (State or other jurisdiction  (I.R.S. Employer Identification No.)
+2  of incorporation or organization)                                   NaN
+3                 One Apple Park Way                                   NaN
+4              Cupertino, California                                 95014
+
+------------------------------
+Table 3 (4 rows x 3 columns):
+         0                                                                                      1   2
+0  Item 1.                                                                   Financial Statements   1
+1  Item 2.  Management’s Discussion and Analysis of Financial Condition and Results of Operations  14
+2  Item 3.                             Quantitative and Qualitative Disclosures About Market Risk  19
+3  Item 4.                                                                Controls and Procedures  19
+
+------------------------------
+Table 4 (7 rows x 3 columns):
+          0                                                            1   2
+0   Item 1.                                            Legal Proceedings  20
+1  Item 1A.                                                 Risk Factors  20
+2   Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds  20
+3   Item 3.                              Defaults Upon Senior Securities  21
+4   Item 4.                                      Mine Safety Disclosures  21
+
+------------------------------
+Table 5 (26 rows x 9 columns):
+            0    1         2    3         4    5         6    7         8
+0         NaN  NaN  June 25,  NaN  June 26,  NaN  June 25,  NaN  June 26,
+1         NaN  NaN      2022  NaN      2021  NaN      2022  NaN      2021
+2  Net sales:  NaN       NaN  NaN       NaN  NaN       NaN  NaN       NaN
+3    Products    $    63,355    $    63,948    $   245,241    $   232,309
+4    Services  NaN    19,604  NaN    17,486  NaN    58,941  NaN    50,148
+
+------------------------------
+Table 6 (40 rows x 6 columns):
+                           0       1       2       3    4       5
+0                    ASSETS:     NaN     NaN     NaN  NaN     NaN
+1            Current assets:     NaN     NaN     NaN  NaN     NaN
+2  Cash and cash equivalents       $  27,502     NaN    $  34,940
+3      Marketable securities  20,729     NaN  27,699  NaN     NaN
+4   Accounts receivable, net  21,803     NaN  26,278  NaN     NaN
+
+------------------------------
+Table 7 (15 rows x 5 columns):
+                          0        1        2        3        4
+0                    awards  (1,371)  (1,224)  (2,783)  (2,460)
+1  Share-based compensation    2,305    2,010    6,940    6,109
+2           Ending balances   62,115   54,989   62,115   54,989
+3            ined earnings:      NaN      NaN      NaN      NaN
+4        Beginning balances   12,712   15,261    5,562   14,966
+
+------------------------------
+Table 8 (6 rows x 9 columns):
+                                                0    1         2    3         4    5         6    7         8
+0                                             NaN  NaN  June 25,  NaN  June 26,  NaN  June 25,  NaN  June 26,
+1                                             NaN  NaN      2022  NaN      2021  NaN      2022  NaN      2021
+2  Total shareholders’ equity, beginning balances    $    67,399    $    69,178    $    63,090    $    65,339
+3    Common stock and additional paid-in capital:  NaN       NaN  NaN       NaN  NaN       NaN  NaN       NaN
+4                              Beginning balances  NaN    61,181  NaN    54,203  NaN    57,365  NaN    50,779
+
+------------------------------
+Table 9 (38 rows x 5 columns):
+                                                            0    1         2    3         4
+0                                                         NaN  NaN  June 25,  NaN  June 26,
+1                                                         NaN  NaN      2022  NaN      2021
+2  , cash equivalents and restricted cash, beginning balances    $    35,929    $    39,789
+3                                          rating activities:  NaN       NaN  NaN       NaN
+4                                                  Net income  NaN    79,082  NaN    74,129
+
+------------------------------
+Table 10 (10 rows x 9 columns):
+              0    1         2    3         4    5         6    7         8
+0           NaN  NaN  June 25,  NaN  June 26,  NaN  June 25,  NaN  June 26,
+1           NaN  NaN      2022  NaN      2021  NaN      2022  NaN      2021
+2    Numerator:  NaN       NaN  NaN       NaN  NaN       NaN  NaN       NaN
+3    Net income    $    19,442    $    21,744    $    79,082    $    74,129
+4  Denominator:  NaN       NaN  NaN       NaN  NaN       NaN  NaN       NaN
+
+------------------------------
+Table 11 (8 rows x 9 columns):
+             0    1         2    3         4    5         6    7         8
+0          NaN  NaN  June 25,  NaN  June 26,  NaN  June 25,  NaN  June 26,
+1          NaN  NaN      2022  NaN      2021  NaN      2022  NaN      2021
+2  iPhone® (1)    $    40,665    $    39,570    $   162,863    $   153,105
+3     Mac® (1)  NaN     7,382  NaN     8,235  NaN    28,669  NaN    26,012
+4    iPad® (1)  NaN     7,224  NaN     7,368  NaN    22,118  NaN    23,610
+
+------------------------------
+Table 12 (40 rows x 15 columns):
+             0    1         2    3           4    5           6    7       8    9            10   11          12   13           14
+0           NaN  NaN       NaN  NaN         NaN  NaN         NaN  NaN     NaN  NaN     Cash and  NaN     Current  NaN  Non-Current
+1           NaN  NaN  Adjusted  NaN  Unrealized  NaN  Unrealized  NaN    Fair  NaN         Cash  NaN  Marketable  NaN   Marketable
+2           NaN  NaN      Cost  NaN       Gains  NaN      Losses  NaN   Value  NaN  Equivalents  NaN  Securities  NaN   Securities
+3          Cash    $    12,852    $           —    $           —    $  12,852    $       12,852    $           —    $            —
+4  Level 1 (1):  NaN       NaN  NaN         NaN  NaN         NaN  NaN     NaN  NaN          NaN  NaN         NaN  NaN          NaN
+
+------------------------------
+Table 13 (3 rows x 5 columns):
+                                           0    1         2    3         4
+0        Gross property, plant and equipment    $   111,851    $   109,723
+1  Accumulated depreciation and amortization  NaN  (71,516)  NaN  (70,283)
+2   Total property, plant and equipment, net    $    40,335    $    39,440
+
+------------------------------
+Table 14 (2 rows x 2 columns):
+          0              1
+0  June 25,  September 25,
+1      2022           2021
+
+------------------------------
+Table 15 (5 rows x 6 columns):
+                                  0          1  2       3    4       5
+0  Balance as of September 25, 2021    240,427  $   75.16  NaN     NaN
+1                      RSUs granted     84,927  $  150.02  NaN     NaN
+2                       RSUs vested  (109,846)  $   70.96  NaN     NaN
+3                     RSUs canceled   (12,986)  $   98.26  NaN     NaN
+4       Balance as of June 25, 2022    202,522  $  107.35    $  28,689
+
+------------------------------
+Table 16 (17 rows x 9 columns):
+                  0    1         2    3         4    5         6    7         8
+0               NaN  NaN  June 25,  NaN  June 26,  NaN  June 25,  NaN  June 26,
+1               NaN  NaN      2022  NaN      2021  NaN      2022  NaN      2021
+2            ricas:  NaN       NaN  NaN       NaN  NaN       NaN  NaN       NaN
+3         Net sales    $    37,472    $    35,870    $   129,850    $   116,486
+4  Operating income    $    13,914    $    12,916    $    48,778    $    40,751
+
+------------------------------
+Table 17 (9 rows x 11 columns):
+                  0    1         2    3         4       5    6         7    8         9       10
+0                NaN  NaN  June 25,  NaN  June 26,     NaN  NaN  June 25,  NaN  June 26,     NaN
+1                NaN  NaN      2022  NaN      2021  Change  NaN      2022  NaN      2021  Change
+2  ales by category:  NaN       NaN  NaN       NaN     NaN  NaN       NaN  NaN       NaN     NaN
+3         iPhone (1)    $    40,665    $    39,570     3 %    $   162,863    $   153,105     6 %
+4            Mac (1)  NaN     7,382  NaN     8,235   (10)%  NaN    28,669  NaN    26,012    10 %
+
+------------------------------
+Table 18 (9 rows x 11 columns):
+                            0    1         2    3         4       5    6         7    8         9       10
+0                          NaN  NaN  June 25,  NaN  June 26,     NaN  NaN  June 25,  NaN  June 26,     NaN
+1                          NaN  NaN      2022  NaN      2021  Change  NaN      2022  NaN      2021  Change
+2  ales by reportable segment:  NaN       NaN  NaN       NaN     NaN  NaN       NaN  NaN       NaN     NaN
+3                     Americas    $    37,472    $    35,870     4 %    $   129,850    $   116,486    11 %
+4                       Europe  NaN    19,287  NaN    18,943     2 %  NaN    72,323  NaN    68,513     6 %
+
+------------------------------

@@ -1,0 +1,32 @@
+**Document:** 2022 Q3 AAPL.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_03
+**Estimated Location in Document:** Page 4
+**Context from Surrounding Text:**
+4 ---
+
+PART I — FINANCIAL  INFORMA TION
+Item 1.    Financial Statements
+Apple Inc.
+CONDENSED CONSOLIDA TED ST ATEMENTS OF OPERA TIONS (Unaudited)
+(In millions, except number of shares which are reflected in thousands and per share amounts)
+Three Months Ended Nine Months Ended
+June 25,
+2022June 26,
+2021June 25,
+2022June 26,
+2021
+Net sales:
+   Products $ 63,355 $ 63,948 $ 245,241 $ 232,309 
+   Services 19,604 17,486 58,941 50,148 
+Total net sales 82,959 81,434 304,182 282,457 
+Cost of sales:
+   Pr...
+
+**Table Data (in Markdown format):**
+| 0       | 1                                                                                     |   2 |
+|:--------|:--------------------------------------------------------------------------------------|----:|
+| Item 1. | Financial Statements                                                                  |   1 |
+| Item 2. | Management’s Discussion and Analysis of Financial Condition and Results of Operations |  14 |
+| Item 3. | Quantitative and Qualitative Disclosures About Market Risk                            |  19 |
+| Item 4. | Controls and Procedures                                                               |  19 |

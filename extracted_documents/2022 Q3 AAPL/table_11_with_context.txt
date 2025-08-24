@@ -1,0 +1,23 @@
+**Document:** tmp6ch0adl8.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_11
+**Estimated Location in Document:** Page 17
+**Context from Surrounding Text:**
+17 ---
+
+Item 2.    Management’ s Discussion and Analysis of Financial Condition and Results of Operations
+This section  and other parts of this Quarterly Report on Form 10-Q (“Form 10-Q”) contain forward-looking statements, within the meaning of the Private
+Securities Litigation Reform Act of 1995, that involve risks and uncertainties. Forward-looking statements provide current expectations of future events based on
+certain assu mptions and include any statement that does not directly relate to ...
+
+**Table Data (in Markdown format):**
+| 0                                      | 1   | 2        | 3   | 4        | 5   | 6        | 7   | 8        |
+|:---------------------------------------|:----|:---------|:----|:---------|:----|:---------|:----|:---------|
+| nan                                    | nan | June 25, | nan | June 26, | nan | June 25, | nan | June 26, |
+| nan                                    | nan | 2022     | nan | 2021     | nan | 2022     | nan | 2021     |
+| iPhone® (1)                            | $   | 40,665   | $   | 39,570   | $   | 162,863  | $   | 153,105  |
+| Mac® (1)                               | nan | 7,382    | nan | 8,235    | nan | 28,669   | nan | 26,012   |
+| iPad® (1)                              | nan | 7,224    | nan | 7,368    | nan | 22,118   | nan | 23,610   |
+| Wearables, Home and Accessories (1)(2) | nan | 8,084    | nan | 8,775    | nan | 31,591   | nan | 29,582   |
+| Services (3)                           | nan | 19,604   | nan | 17,486   | nan | 58,941   | nan | 50,148   |
+| Total net sales (4)                    | $   | 82,959   | $   | 81,434   | $   | 304,182  | $   | 282,457  |

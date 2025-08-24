@@ -1,0 +1,18 @@
+**Document:** tmp6ch0adl8.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_13
+**Estimated Location in Document:** Page 20
+**Context from Surrounding Text:**
+20 ---
+
+Rest of Asia Pacific
+Rest of Asia Pacific net sales increased during the third quarter of 2022 compared to the third quarter of 2021 due primarily to higher net sales of iPhone and
+Services. Year-over-year  Rest of Asia Pacific net sales increased during the first nine months of 2022 due primarily to higher net sales of Services, iPhone and
+Mac. The weakness in foreign currencies relativ e to the U.S. dollar had a net unfavorable impact on Rest of Asia Pacific net sales during the third ...
+
+**Table Data (in Markdown format):**
+| 0                                         | 1   | 2        | 3   | 4        |
+|:------------------------------------------|:----|:---------|:----|:---------|
+| Gross property, plant and equipment       | $   | 111,851  | $   | 109,723  |
+| Accumulated depreciation and amortization | nan | (71,516) | nan | (70,283) |
+| Total property, plant and equipment, net  | $   | 40,335   | $   | 39,440   |

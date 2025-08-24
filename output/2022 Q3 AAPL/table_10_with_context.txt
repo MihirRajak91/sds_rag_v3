@@ -1,0 +1,36 @@
+**Document:** 2022 Q3 AAPL.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_10
+**Estimated Location in Document:** Page 15
+**Context from Surrounding Text:**
+15 ---
+
+Note 7 – Benefit Plans
+Restricted Stock Units
+A summary of the Company’ s restricted stock unit (“RSU”) activity and related information for the nine months ended June 25, 2022 is as follows:
+Number of
+RSUs
+(in thousands)Weighted-Average
+Grant Date Fair
+Value Per RSUAggregate
+Fair Value
+(in millions)
+Balance as of September 25, 2021 240,427 $ 75.16 
+RSUs granted 84,927 $ 150.02 
+RSUs vested (109,846) $ 70.96 
+RSUs canceled (12,986) $ 98.26 
+Balance as of June 25, 2022 202,522 $ 107.35 $ ...
+
+**Table Data (in Markdown format):**
+| 0                                         | 1   | 2          | 3   | 4          | 5   | 6          | 7   | 8          |
+|:------------------------------------------|:----|:-----------|:----|:-----------|:----|:-----------|:----|:-----------|
+| nan                                       | nan | June 25,   | nan | June 26,   | nan | June 25,   | nan | June 26,   |
+| nan                                       | nan | 2022       | nan | 2021       | nan | 2022       | nan | 2021       |
+| Numerator:                                | nan | nan        | nan | nan        | nan | nan        | nan | nan        |
+| Net income                                | $   | 19,442     | $   | 21,744     | $   | 79,082     | $   | 74,129     |
+| Denominator:                              | nan | nan        | nan | nan        | nan | nan        | nan | nan        |
+| Weighted-average basic shares outstanding | nan | 16,162,945 | nan | 16,629,371 | nan | 16,277,824 | nan | 16,772,656 |
+| Effect of dilutive securities             | nan | 99,258     | nan | 152,364    | nan | 117,113    | nan | 168,871    |
+| Weighted-average diluted shares           | nan | 16,262,203 | nan | 16,781,735 | nan | 16,394,937 | nan | 16,941,527 |
+| Basic earnings per share                  | $   | 1.20       | $   | 1.31       | $   | 4.86       | $   | 4.42       |
+| Diluted earnings per share                | $   | 1.20       | $   | 1.30       | $   | 4.82       | $   | 4.38       |

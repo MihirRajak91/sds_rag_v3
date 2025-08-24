@@ -1,0 +1,208 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Poetry
+poetry.lock
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+*.lnk
+
+# RAG Project Specific
+# ====================
+
+# Extracted documents (contains processed PDFs)
+extracted_documents/
+output/
+
+# Test outputs
+test_output/
+chunked_documents/
+embedded_documents/
+
+# Temporary files from PDF processing
+*.tmp
+tmp*
+
+# Uploaded PDFs (keep data/ folder structure but ignore large files)
+data/*.pdf
+!data/README.md
+
+# Model caches (sentence-transformers downloads models here)
+.cache/
+models/
+sentence_transformers/
+
+# Vector database data (Qdrant local storage)
+qdrant_storage/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Large language model files
+*.bin
+*.safetensors
+*.h5
+
+# Streamlit cache
+.streamlit/
+
+# Backup files
+backup/
+*.bak
+*_backup_*
+
+# Configuration files with sensitive data
+config/secrets.yaml
+config/api_keys.yaml
+.secrets
+*.key
+*.pem
+
+# Local development files
+local_*.py
+dev_*.py
+scratch.py
+playground.py
+
+# Documentation build
+docs/_build/
+docs/build/
+
+# Notebook outputs
+*.nbconvert.py
+
+# Large data files
+*.csv
+*.json
+*.parquet
+*.feather
+
+# Exception: Keep small example/config files
+!example_*.json
+!config_*.json
+!sample_*.csv

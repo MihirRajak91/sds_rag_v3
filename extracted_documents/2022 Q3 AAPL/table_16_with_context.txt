@@ -1,0 +1,37 @@
+**Document:** tmp6ch0adl8.pdf
+**Report Period:** For the quarterly period ended June 25, 2022
+**Table ID:** table_16
+**Estimated Location in Document:** Page 24
+**Context from Surrounding Text:**
+24 ---
+
+Item 3.    Defaults Upon Senior Securities
+None.
+Item 4.    Mine Safety Disclosures
+Not applicable.
+Item 5.    Other Information
+Rule 10b5-1 T rading Plans
+During the three months ended June 25, 2022, Katherine L. Adams, Timothy D. Cook, Luca Maestri, Deirdre O’Brien and Jeffrey Williams, each an officer for
+purposes of Section 16 of the Exchange Act, had equity trading plans in place in accordance with Rule 10b5-1(c)(1) under the Exchange Act. An equity trading
+plan is a written docume ...
+
+**Table Data (in Markdown format):**
+| 0                | 1   | 2        | 3   | 4        | 5   | 6        | 7   | 8        |
+|:-----------------|:----|:---------|:----|:---------|:----|:---------|:----|:---------|
+| nan              | nan | June 25, | nan | June 26, | nan | June 25, | nan | June 26, |
+| nan              | nan | 2022     | nan | 2021     | nan | 2022     | nan | 2021     |
+| ricas:           | nan | nan      | nan | nan      | nan | nan      | nan | nan      |
+| Net sales        | $   | 37,472   | $   | 35,870   | $   | 129,850  | $   | 116,486  |
+| Operating income | $   | 13,914   | $   | 12,916   | $   | 48,778   | $   | 40,751   |
+| pe:              | nan | nan      | nan | nan      | nan | nan      | nan | nan      |
+| Net sales        | $   | 19,287   | $   | 18,943   | $   | 72,323   | $   | 68,513   |
+| Operating income | $   | 7,124    | $   | 7,085    | $   | 27,174   | $   | 24,939   |
+| ter China:       | nan | nan      | nan | nan      | nan | nan      | nan | nan      |
+| Net sales        | $   | 14,604   | $   | 14,762   | $   | 58,730   | $   | 53,803   |
+| Operating income | $   | 5,760    | $   | 6,303    | $   | 25,055   | $   | 22,591   |
+| n:               | nan | nan      | nan | nan      | nan | nan      | nan | nan      |
+| Net sales        | $   | 5,446    | $   | 6,464    | $   | 20,277   | $   | 22,491   |
+| Operating income | $   | 2,418    | $   | 3,031    | $   | 9,263    | $   | 9,962    |
+| of Asia Pacific: | nan | nan      | nan | nan      | nan | nan      | nan | nan      |
+| Net sales        | $   | 6,150    | $   | 5,395    | $   | 23,002   | $   | 21,164   |
+| Operating income | $   | 2,367    | $   | 2,116    | $   | 9,185    | $   | 7,805    |

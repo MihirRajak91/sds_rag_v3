@@ -335,7 +335,7 @@ def show_chatbot_page():
             if message["role"] == "assistant" and message.get("sources"):
                 with st.expander(f"📚 Sources ({len(message['sources'])})", expanded=False):
                     for i, source in enumerate(message["sources"], 1):
-                        st.markdown(f"**{i}.** {source['document']} (Page {source['page']}, Score: {source['similarity_score']:.3f})")
+                        st.markdown(f"**{i}.** {source['document']} (Page {source['page']})")
                         st.text(f"Preview: {source['preview']}")
                         st.divider()
     
@@ -359,11 +359,11 @@ def show_chatbot_page():
             if response.sources:
                 with st.expander(f"📚 Sources ({len(response.sources)})", expanded=False):
                     for i, source in enumerate(response.sources, 1):
-                        st.markdown(f"**{i}.** {source['document']} (Page {source['page']}, Score: {source['similarity_score']:.3f})")
+                        st.markdown(f"**{i}.** {source['document']} (Page {source['page']})")
                         st.text(f"Preview: {source['preview']}")
                         st.divider()
             
-            st.caption(f"⏱️ {response.processing_time:.2f}s | 📊 Confidence: {response.confidence_score:.2f}")
+            st.caption(f"⏱️ {response.processing_time:.2f}s")
         
         # Add assistant response
         st.session_state.chat_messages.append({

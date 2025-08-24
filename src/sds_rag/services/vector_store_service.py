@@ -20,8 +20,8 @@ from qdrant_client.http.models import (
 )
 
 # Import related services
-from .chunking_service import DocumentChunk
-from .embedding_service import EmbeddingService
+from services.chunking_service import DocumentChunk
+from services.embedding_service import EmbeddingService
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s:%(name)s:%(message)s')

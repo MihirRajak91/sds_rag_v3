@@ -22,25 +22,11 @@ sys.path.append(str(Path(__file__).parent.parent))
 from config.constants import LLMConfig, ChatbotConfig
 from services.vector_store_service import VectorStoreService
 from services.embedding_service import EmbeddingService
-from services.chunking_service import DocumentChunk
+from models.chunk import DocumentChunk
+from models.chat import ChatMessage, ChatResponse
 
 logger = logging.getLogger(__name__)
 
-@dataclass
-class ChatMessage:
-    """Represents a single chat message"""
-    role: str  # 'user' or 'assistant'
-    content: str
-    timestamp: datetime
-    sources: Optional[List[Dict[str, Any]]] = None
-
-@dataclass
-class ChatResponse:
-    """Response from the RAG chatbot"""
-    answer: str
-    sources: List[Dict[str, Any]]
-    confidence_score: float
-    processing_time: float
 
 class RAGChatbotService:
     """

@@ -4,11 +4,15 @@ Handles both text and tabular data with context preservation for RAG systems.
 """
 
 import logging
+import sys
 from pathlib import Path
 from typing import List, Dict, Any, Optional
 import re
 from dataclasses import dataclass, asdict
 from datetime import datetime
+
+# Add models path for future use
+sys.path.append(str(Path(__file__).parent.parent))
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s:%(name)s:%(message)s')
